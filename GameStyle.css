@@ -1,0 +1,60 @@
+.header, .center, .footer {
+	-fx-alignment: center;
+	-fx-background-color: #fff8dc;
+}
+
+.title {
+	-fx-font-size: 75px;
+	-fx-font-family: monospace;
+	-fx-padding: 50 0 0 0;
+}
+
+.grid {
+	-fx-alignment: center;
+	-fx-background-color: #fff8dc;
+}
+
+.message-box, .right-side-box {
+	-fx-font-size: 20px;
+	-fx-font-family: monospace;
+	-fx-alignment: center;
+	-fx-background-color: #fff8dc;
+}
+
+.right-side-box {
+	-fx-margin-left: 10px;
+}
+
+.room {
+	-fx-background-color: #00ff74;
+	-fx-min-height: 65px;
+	-fx-min-width: 65px;
+	-fx-border-color: #fff8dc;
+	-fx-border-width: 5px;
+	-fx-font-size: 30px;
+	-fx-alignment: center;
+}
+
+.mario {
+	-fx-background-color: #00ffff;
+}
+
+.total-ammo {
+	-fx-font-size: 20px;
+	-fx-font-family: monospace;
+}
+
+.button {
+	-fx-font-size: 20px;
+	-fx-font-family: monospace;
+	-fx-background-color: #ffd700;
+	-fx-background-insets: 5px;
+}
+
+.green-button {
+	-fx-background-color: #00ff74;
+}
+
+.red-button {
+	-fx-background-color: #ff6347;
+}

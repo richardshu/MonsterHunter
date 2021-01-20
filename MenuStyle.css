@@ -1,0 +1,26 @@
+.menu {
+	-fx-alignment: center;
+	-fx-background-color: #fff8dc;
+}
+
+.title {
+	-fx-font-size: 75px;
+	-fx-font-family: monospace;
+}
+
+.play-text {
+	-fx-font-size: 20px;
+	-fx-font-family: monospace;
+}
+
+.button-box {
+	-fx-alignment: center;
+}
+
+.button {
+	-fx-spacing: 3px;
+	-fx-font-size: 20px;
+	-fx-font-family: monospace;
+	-fx-background-color: #00ff74;
+	-fx-background-insets: 5px;
+}
